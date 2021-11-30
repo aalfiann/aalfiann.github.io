@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interesting on M ABD AZIZ ALFIAN</title>
+    <link>https://aalfiann.thedev.id/tags/interesting/</link>
+    <description>Recent content in interesting on M ABD AZIZ ALFIAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2000 11:17:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://aalfiann.thedev.id/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example</title>
+      <link>https://aalfiann.thedev.id/portfolio/z-example/</link>
+      <pubDate>Wed, 01 Nov 2000 11:17:14 +0200</pubDate>
+      
+      <guid>https://aalfiann.thedev.id/portfolio/z-example/</guid>
+      <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>
