@@ -1,0 +1,79 @@
+baseURL = "https://aalfiann.thedev.id/"
+languageCode = "en-us"
+title = "M ABD AZIZ ALFIAN"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+enableEmoji = true
+publishDir = "public"
+disqusShortname = "aalfiann"
+googleAnalytics = "G-DKVYSYDHR4"
+enableRobotsTXT = true
+disableHugoGeneratorInject = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+  pagerSize = 9
+
+[params]
+  icon = "/images/logo.png"
+  logo = "/images/logo.png"
+  description ="Senior Software Developer from Indonesia."
+  #mailchimp = "you can provide a mailchimp-link here"
+  # copyright
+  copyrightYear = "2014"
+  copyright = "M ABD AZIZ ALFIAN. All rights reserved."
+  # baseProtection is a simple protection to protect your website from reverse or web proxy.
+  # Leave blank if you don't want to use this.
+  # Example: 
+  # baseProtection = "yourdomain.com"
+  baseProtection = "aalfiann.github.io, aalfiann.thedev.id, localhost:1313, localhost:8080"
+
+[params.author]
+  name = "M ABD AZIZ ALFIAN"
+  thumbnail = "/images/author.jpg"
+  description = "Creator of this website."
+
+[params.index]
+  picture = "/images/author.jpg"
+  title = "M ABD AZIZ ALFIAN"
+  subtitle = "Hi, I'm a Senior Software Developer from Indonesia"
+  mdtext = '''
+I started to create an application, website and library since 2008. My Expertise in JavaScript.  
+I'm a developer, investor and open source enthusiast, I've created many stuff for free.
+  
+### Having problem in your current project ?
+**Feel free to contact me, I can help you with your current or next project.**  
+Email : aalfiann@gmail.com
+'''
+  alertbar = false
+
+[params.social]
+  github = "aalfiann"
+  gitlab = "aalfiann"
+  linkedin = "azizalfian"
+  facebook = "azizalfian"
+  ## xing = "<username>"
+  ## medium = "<username>"
+  twitter = "aalfiann"
+  instagram = "azizalfian"
+
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 101
+    url = "/"
+[[menu.main]]
+    name = "Portfolio"
+    weight = 102
+    identifier = "portfolio"
+    url = "/portfolio"
+[[menu.main]]
+    name = "CV"
+    identifier = "cv"
+    weight = 103
+    url = "/cv"
