@@ -1,2 +1,10 @@
+# Backup & cache
+resources/
+hugo_stats.json
+
+# Node modules (jika pakai npm)
+node_modules/
+
+# System files
 .DS_Store
-public
+*.log
