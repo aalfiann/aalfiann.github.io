@@ -1,11 +1,11 @@
 ---
 title: "Curriculum Vitae"
-date: 2018-10-07T11:12:00+02:00
+date: 2025-05-03T11:12:00+02:00
 ---
 
 Hi, I'm a Senior Software Developer from Indonesia.  
 I started to create an application, website and library since 2008.  
-My expertise is C#, PHP and JavaScript.  
+My expertise is JavaScript.  
 Actualy, I'm an open source enthusiast and I've created many stuff for free.  
 Want to know more about my long experiences in development? Feel free to contact me.
 
@@ -35,19 +35,19 @@ Want to know more about my long experiences in development? Feel free to contact
 ### Skills
 |||
 |---|---|
-|**Programming**| : C#, VB, PHP and JavaScript.|
+|**Programming**| : PHP and JavaScript.|
 |**Pattern**| : Native, OOP, MVC and MVVM.|
-|**Fullstack**| : .Net, Laravel and TotalJS.|
+|**Fullstack**| : Laravel, TotalJS and AstroJS.|
 |**Backend**| : Fastify, Express.js, Socket.io, SlimPHP and Apache Cordova.|
-|**Frontend**| : AngularJS, VueJS, Framework7, Ionic, jQuery and Svelte.|
-|**Unit Test**| : Mocha, Chai, JSDom, PHPUnit, Travis-CI and Gitlab CD/CI.|
+|**Frontend**| : VueJS, Framework7, Ionic, jQuery, React, Reef and Svelte.|
+|**Unit Test**| : Mocha, Chai, JSDom, PHPUnit, Circle-CI and Gitlab CD/CI.|
 |**Git**| : Microsoft Team Services, Github and Gitlab.|
 |**Diagram**| : DFD, UML and BPMN.|
 |**Code Standard**| : Standard, SemiStandard, Eslint and PSR.|
 |**Database**| : SQL, NoSQL, MySQL, PostgreSQL, SQLite and MongoDB.|
 |**Web Server**| : Apache and NGINX.|
 |**Container**| : Docker and Kubernetes.|
-|**IDE**| : VS2015, VSCode, Android Studio and xCode.|
+|**IDE**| : VSCode and Zed.|
 |**OS**| : Windows, Linux and Mac.|
 
 ---
@@ -70,7 +70,33 @@ Want to know more about my long experiences in development? Feel free to contact
 
 ### Experiences
 
-8. **Senior Software Developer at PT Trans Kurir Domestik (Sep 2016 - Present)**
+9. **Senior Software Developer at PT Layanan Medik Indonesia (Jul 2019 - Dec 2024)**  
+    My job descriptions in PT Layanan Medik Indonesia (GetMedik) is to Leading the frontend development which is consist of 5-6 frontend developers.
+
+    The frontend technology we used is:  
+    - Website:  
+        - Total.JS
+        - jQuery
+        - ReefJS
+        - Socket.IO
+    - Mobile:  
+        - Flutter v3
+        - Cubit
+    ---
+    Here is my primary job descriptions:  
+    - DEVELOPMENT
+        - Leader Frontend Developer in Scrum Team.
+        - Finish the task based on Backlog.    
+        - Submit the updated code to the internal Git Server.
+        - Do testing on staging environment.
+    ---
+    - MANAGEMENT
+        - Create weekly report and submitted to senior management.
+        - Listing new bugs reported from the Team and bring it to the next Scrum meeting.
+        - Create report staging development for getting ready deploy to the production environment. 
+        - Create restrospective report from the team to stakeholder meeting session.
+
+8. **Senior Software Developer at PT Trans Kurir Domestik (Sep 2016 - Jul 2019)**
     - DEVELOPMENT
         - Architect, develop and implement software programs to meet business requirements.
         - Develop application code and modules for business and technical requirements.

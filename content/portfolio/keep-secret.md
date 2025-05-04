@@ -3,7 +3,7 @@ title: "Keep Secret"
 date: 2023-03-01T11:17:14+02:00
 publishdate: 2023-03-05T11:17:14+02:00
 image: "/images/portfolio/keep-secret.png"
-tags: ["html","pwa","bulma","static","javascript","utility"]
+tags: ["html","pwa","bulma","static","javascript","utility","cross-platform"]
 comments: false
 ---
 
