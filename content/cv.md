@@ -28,7 +28,13 @@ Want to know more about my long experiences in development? Feel free to contact
 ---
 
 ### Educations
-- **PIKTI ITS** Computer Programming A (2008)
+**Institut Teknologi Sepuluh Nopember (ITS)**  
+**Degree:** Professional Certificate  
+**Field:** Computer Science and Informatics  
+**Year:** 2007 - 2008  
+**Grade:** 3.5 / 4.0
+
+One-year professional program focused on software development, programming, databases and applied computing. Completed at Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia.
 
 ---
 
@@ -131,7 +137,7 @@ Want to know more about my long experiences in development? Feel free to contact
 
 ---
 
-6. **Freelance Programmer at Dunia Web Media (Jan 2012 - Present)**  
+6. **Freelance Programmer at Dunia Web Media (Jan 2012 - Jun 2019)**  
     Just freelance at Software House
 
 ---
