@@ -3,7 +3,7 @@ title: "Sistem Multi Level Marketing"
 date: 2024-05-01T11:17:14+02:00
 publishdate: 2024-08-01T11:17:14+02:00
 image: "/images/portfolio/mlm-cip.png"
-tags: ["nodejs","astrojs","web","html","css","javascript","pwa","cross-platform","mlm"]
+tags: ["nodejs","astrojs","web","html","tailwindcss","javascript","pwa","cross-platform","mlm","b2b"]
 comments: false
 ---
 

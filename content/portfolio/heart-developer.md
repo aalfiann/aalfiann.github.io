@@ -3,7 +3,7 @@ title: "Heart Developer"
 date: 2024-02-01T11:17:14+02:00
 publishdate: 2024-03-01T11:17:14+02:00
 image: "/images/portfolio/heartdeveloper.png"
-tags: ["nodejs","astrojs","web","html","css","javascript","pwa","cross-platform","landing"]
+tags: ["nodejs","astrojs","web","html","tailwindcss","javascript","pwa","cross-platform","landing"]
 comments: false
 ---
 

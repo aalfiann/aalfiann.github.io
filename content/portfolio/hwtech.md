@@ -3,7 +3,7 @@ title: "HWTech"
 date: 2024-10-01T11:17:14+02:00
 publishdate: 2024-11-01T11:17:14+02:00
 image: "/images/portfolio/hwtech.png"
-tags: ["nodejs","astrojs","web","html","css","javascript","pwa","cross-platform","landing"]
+tags: ["nodejs","astrojs","web","html","tailwindcss","javascript","pwa","cross-platform","landing"]
 comments: false
 ---
 

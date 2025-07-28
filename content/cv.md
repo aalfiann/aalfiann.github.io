@@ -41,7 +41,7 @@ One-year professional program focused on software development, programming, data
 ### Skills
 |||
 |---|---|
-|**Programming**| : PHP and JavaScript.|
+|**Programming**| : C#, PHP and JavaScript.|
 |**Pattern**| : Native, OOP, MVC and MVVM.|
 |**Fullstack**| : Laravel, TotalJS and AstroJS.|
 |**Backend**| : Fastify, Express.js, Socket.io, SlimPHP and Apache Cordova.|
