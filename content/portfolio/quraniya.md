@@ -3,7 +3,7 @@ title: "Quraniya"
 date: 2026-08-31T11:17:14+02:00
 publishdate: 2026-08-31T11:17:14+02:00
 image: "/images/portfolio/quraniya.png"
-tags: ["astrojs","reactjs","fastify","tailwindcss","javascript", "typescript","pwa", "cross-platform"]
+tags: ["astro","react","fastify","tailwindcss","javascript", "typescript","pwa", "cross-platform"]
 comments: false
 ---
 
@@ -35,6 +35,6 @@ Quraniya is built with the hope that its benefits can continue to reach people l
 |||
 |---|---|
 |**Date**| : 2026 Aug
-|**Stacks**| : AstroJS, ReactJS, JavaScript, TypeScript, PWA
+|**Stacks**| : Astro, React, JavaScript, TypeScript, PWA
 |**Status**| : Done
 |**Visit**| : [https://quraniya.netlify.app](https://quraniya.netlify.app)

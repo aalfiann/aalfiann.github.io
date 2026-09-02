@@ -3,7 +3,7 @@ title: "SAKA Developer"
 date: 2025-04-01T11:17:14+02:00
 publishdate: 2025-05-01T11:17:14+02:00
 image: "/images/portfolio/sakadeveloper.png"
-tags: ["nodejs","astrojs","web","html","tailwindcss","javascript","pwa","cross-platform","landing"]
+tags: ["nodejs","astro","web","html","tailwindcss","javascript","pwa","cross-platform","landing"]
 comments: false
 ---
 
@@ -17,7 +17,7 @@ Kami juga spesialis dalam optimasi website, kami memastikan aplikasi Anda memili
 |||
 |---|---|
 |**Date**| : 2025 Apr - 2025 May
-|**Stacks**| : NodeJS, AstroJS, PWA, JavaScript
+|**Stacks**| : NodeJS, Astro, PWA, JavaScript
 |**Status**| : Done
 |**Visit**| : [https://sakadeveloper.com](https://sakadeveloper.com)
 

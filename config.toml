@@ -21,7 +21,7 @@ disableHugoGeneratorInject = true
 [params]
   icon = "/images/logo.png"
   logo = "/images/logo.png"
-  description ="AI Native Engineer | DevOps Engineer | Senior Software Developer from Indonesia."
+  description ="AI Native Engineer | DevOps Engineer | Senior Software Developer."
   #mailchimp = "you can provide a mailchimp-link here"
   # copyright
   copyrightYear = "2014"
@@ -40,7 +40,7 @@ disableHugoGeneratorInject = true
 [params.index]
   picture = "/images/author.jpg"
   title = "M ABD AZIZ ALFIAN"
-  subtitle = "AI Native | DevOps | Senior Software Developer from Indonesia"
+  subtitle = "AI Native Engineer | DevOps Engineer | Senior Software Developer"
   mdtext = '''
 I started to create an application, website and library since 2008. My Expertise in JavaScript.  
 I'm a developer, investor and open source enthusiast, I've created many stuff for free.

@@ -3,7 +3,7 @@ title: "EmbroPrime"
 date: 2026-04-01T11:17:14+02:00
 publishdate: 2026-04-01T11:17:14+02:00
 image: "/images/portfolio/embroprime.png"
-tags: ["astrojs","fastify","payment-gateway","tailwindcss","javascript", "typescript","sso","ecommerce","b2c", "s3", "microservices"]
+tags: ["astro","fastify","payment-gateway","tailwindcss","javascript", "typescript","sso","ecommerce","b2c", "s3", "microservices"]
 comments: false
 ---
 
@@ -24,6 +24,6 @@ Features:
 |||
 |---|---|
 |**Date**| : 2026 Apr
-|**Stacks**| : NodeJS, AstroJS, Fastify, JavaScript, TypeScript
+|**Stacks**| : NodeJS, Astro, Fastify, JavaScript, TypeScript
 |**Status**| : Done
 |**Visit**| : [https://embroprime.com](https://embroprime.com)

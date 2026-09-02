@@ -3,7 +3,7 @@ title: "Heart Developer"
 date: 2024-02-01T11:17:14+02:00
 publishdate: 2024-03-01T11:17:14+02:00
 image: "/images/portfolio/heartdeveloper.png"
-tags: ["nodejs","astrojs","web","html","tailwindcss","javascript","pwa","cross-platform","landing"]
+tags: ["nodejs","astro","web","html","tailwindcss","javascript","pwa","cross-platform","landing"]
 comments: false
 ---
 
@@ -17,7 +17,7 @@ PT Pilar Anugerah Digital Indonesia berdiri pada awal tahun 2024 di DKI Jakarta,
 |||
 |---|---|
 |**Date**| : 2024 Feb - 2024 Mar
-|**Stacks**| : NodeJS, AstroJS, PWA, JavaScript
+|**Stacks**| : NodeJS, Astro, PWA, JavaScript
 |**Status**| : Done
 |**Visit**| : [https://heartdeveloper.com](https://heartdeveloper.com)
 

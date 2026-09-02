@@ -3,7 +3,7 @@ title: "Sistem Multi Level Marketing"
 date: 2024-05-01T11:17:14+02:00
 publishdate: 2024-08-01T11:17:14+02:00
 image: "/images/portfolio/mlm-cip.png"
-tags: ["nodejs","astrojs","web","html","tailwindcss","javascript","pwa","cross-platform","mlm","b2b"]
+tags: ["nodejs","astro","web","html","tailwindcss","javascript","pwa","cross-platform","mlm","b2b"]
 comments: false
 ---
 
@@ -17,7 +17,7 @@ Dalam proyek Sistem Multilevel Marketing ini terdapat landing page, admin manage
 |||
 |---|---|
 |**Date**| : 2024 Jan - 2024 Aug
-|**Stacks**| : NodeJS, AstroJS, PWA, JavaScript
+|**Stacks**| : NodeJS, Astro, PWA, JavaScript
 |**Status**| : Done
 |**Visit**| : [https://ptcip.co.id](https://ptcip.co.id)
 

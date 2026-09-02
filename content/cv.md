@@ -81,11 +81,11 @@ One-year professional program focused on software development, programming, data
 ### Skills
 |||
 |---|---|
-|**Programming**| : C#, PHP and JavaScript.|
+|**Programming**| : C#, PHP, JavaScript and TypeScript.|
 |**Agentic AI**| : Copilot, TRAE and AntiGravity.|
 |**LLM Models**| : Claude Opus, Claude Fable, Claude Sonnet and GPT 5.x.|
 |**Pattern**| : Native, OOP, MVC and MVVM.|
-|**Fullstack**| : Laravel, TotalJS and AstroJS.|
+|**Fullstack**| : Laravel, Total, Next and Astro.|
 |**Backend**| : Fastify, Express.js, Socket.io, SlimPHP and Apache Cordova.|
 |**Frontend**| : VueJS, Framework7, Ionic, jQuery, React, Reef and Svelte.|
 |**Unit Test**| : Mocha, Chai, JSDom, PHPUnit, Circle-CI and Gitlab CD/CI.|

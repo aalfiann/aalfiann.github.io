@@ -3,7 +3,7 @@ title: "doctorSHARE"
 date: 2025-01-01T11:17:14+02:00
 publishdate: 2025-03-01T11:17:14+02:00
 image: "/images/portfolio/doctorshare.png"
-tags: ["nodejs","astrojs","payment-gateway","html","tailwindcss","javascript","ecommerce","pwa","cross-platform"]
+tags: ["nodejs","astro","payment-gateway","html","tailwindcss","javascript","ecommerce","pwa","cross-platform"]
 comments: false
 ---
 
@@ -14,7 +14,7 @@ Yayasan Dokter Peduli (doctorSHARE) is a non-profit organization officially reco
 |||
 |---|---|
 |**Date**| : 2024 Oct - 2025 Mar
-|**Stacks**| : NodeJS, AstroJS, PWA, JavaScript
+|**Stacks**| : NodeJS, Astro, PWA, JavaScript
 |**Status**| : Done
 |**Visit**| : [https://dev.doctorshare.org](https://dev.doctorshare.org)
 
